@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">Payment Methods</string>
+    <string name="app_name">Credit Cards</string>
+    <string name="load_button">Load Payment Methods</string>
+    <string name="no_credit_cards">No Credit Cards Found</string>
+    <string name="no_internet">No Internet Connection</string>
+    <string name="service_error">Error Fetching Payment Methods: [%1$s]</string>
+
+    <string name="base_url">https://api.mercadopago.com</string>
+    <string name="uri">v1/payment_methods</string>
+    <string name="public_key">444a9ef5-8a6b-429f-abdf-587639155d88</string>
 </resources>
